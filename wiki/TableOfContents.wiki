@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 #labels Featured
 
- * [Galeria]
  * [MyPaint]
+ * [Instalacion]
+ * [Galeria]
  * [Tutoriales]
- * [Instalación]
