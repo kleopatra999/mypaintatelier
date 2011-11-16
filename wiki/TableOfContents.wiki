@@ -1,6 +1,5 @@
 #summary One-sentence summary of this page.
 #labels Featured
 
-[Gallery]
-
-[MyPaint]
+ * [Gallery]
+ * [MyPaint]
